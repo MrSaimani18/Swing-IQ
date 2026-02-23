@@ -1,0 +1,339 @@
+🚀 SMARTSWING — DAILY MARKET SCAN
+=======================================================
+🔍 Scanning 48 stocks
+
+
+📌 STOCK: RELIANCE
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: TCS
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: INFY
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: HDFCBANK
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: ICICIBANK
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: SBIN
+----------------------------------------
+❌ DECISION: NO TRADE
+- RSI is in extreme zone
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: AXISBANK
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: KOTAKBANK
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: LT
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: HINDUNILVR
+----------------------------------------
+❌ ERROR PROCESSING STOCK
+'RISK'
+-------------------------------------------------------
+
+📌 STOCK: ITC
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: BHARTIARTL
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: ASIANPAINT
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: MARUTI
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: TATAMOTORS
+----------------------------------------
+❌ DECISION: NO TRADE
+- Data load failed: CSV not found: data/TATAMOTORS_NS.csv
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: TATASTEEL
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: JSWSTEEL
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: HINDALCO
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: ULTRACEMCO
+----------------------------------------
+❌ DECISION: NO TRADE
+- RSI is in extreme zone
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: ADANIENT
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: ADANIPORTS
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: POWERGRID
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: NTPC
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: ONGC
+----------------------------------------
+❌ DECISION: NO TRADE
+- RSI is in extreme zone
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: COALINDIA
+----------------------------------------
+❌ DECISION: NO TRADE
+- Distribution detected (low volume)
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: BAJFINANCE
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: BAJAJFINSV
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: HCLTECH
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: WIPRO
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: TECHM
+----------------------------------------
+❌ DECISION: NO TRADE
+- RSI is in extreme zone
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: SUNPHARMA
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: DRREDDY
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: CIPLA
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: DIVISLAB
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: APOLLOHOSP
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: HEROMOTOCO
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: EICHERMOT
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: M&M
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: GRASIM
+----------------------------------------
+❌ DECISION: NO TRADE
+- Data load failed: CSV not found: data/GRASIM_NS.csv
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: BPCL
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: IOC
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: HDFCLIFE
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: SBILIFE
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: BRITANNIA
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: NESTLEIND
+----------------------------------------
+⚠️ DECISION: WAIT
+- Waiting for better RSI alignment
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: INDUSINDBK
+----------------------------------------
+❌ DECISION: NO TRADE
+- Distribution detected (low volume)
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: UPL
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------
+
+📌 STOCK: TITAN
+----------------------------------------
+❌ DECISION: NO TRADE
+- Stock is not in an uptrend
+Action: Capital protection — no action taken.
+-------------------------------------------------------

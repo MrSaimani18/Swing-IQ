@@ -1,0 +1,23 @@
+🚀 SMARTSWING — DAILY MARKET SCAN
+=======================================================
+
+📌 STOCK: ICICIBANK
+----------------------------------------
+⚠️ DECISION: WAIT
+Reason: ['RSI within conservative range (40-55)', 'Trade rejected: risk too high']
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: RELIANCE
+----------------------------------------
+⚠️ DECISION: WAIT
+Reason: ['RSI within conservative range (40-55)', 'Trade rejected: risk too high']
+Action: Wait for better timing.
+-------------------------------------------------------
+
+📌 STOCK: TCS
+----------------------------------------
+⚠️ DECISION: WAIT
+Reason: ['RSI within conservative range (40-55)', 'Trade rejected: risk too high']
+Action: Wait for better timing.
+-------------------------------------------------------
